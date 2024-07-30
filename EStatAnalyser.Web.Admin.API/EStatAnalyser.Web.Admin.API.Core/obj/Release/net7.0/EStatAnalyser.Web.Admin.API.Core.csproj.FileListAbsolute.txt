@@ -1,0 +1,12 @@
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Core\bin\Release\net7.0\EStatAnalyser.Web.Admin.API.Core.deps.json
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Core\bin\Release\net7.0\EStatAnalyser.Web.Admin.API.Core.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Core\bin\Release\net7.0\EStatAnalyser.Web.Admin.API.Core.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Core\obj\Release\net7.0\EStatAnalyser.Web.Admin.API.Core.csproj.AssemblyReference.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Core\obj\Release\net7.0\EStatAnalyser.Web.Admin.API.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Core\obj\Release\net7.0\EStatAnalyser.Web.Admin.API.Core.AssemblyInfoInputs.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Core\obj\Release\net7.0\EStatAnalyser.Web.Admin.API.Core.AssemblyInfo.cs
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Core\obj\Release\net7.0\EStatAnalyser.Web.Admin.API.Core.csproj.CoreCompileInputs.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Core\obj\Release\net7.0\EStatAnalyser.Web.Admin.API.Core.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Core\obj\Release\net7.0\refint\EStatAnalyser.Web.Admin.API.Core.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Core\obj\Release\net7.0\EStatAnalyser.Web.Admin.API.Core.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Core\obj\Release\net7.0\ref\EStatAnalyser.Web.Admin.API.Core.dll

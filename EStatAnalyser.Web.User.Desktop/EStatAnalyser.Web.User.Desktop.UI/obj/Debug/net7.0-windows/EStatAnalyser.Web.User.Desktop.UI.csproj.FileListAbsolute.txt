@@ -1,0 +1,146 @@
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.exe
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.deps.json
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.runtimeconfig.json
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.csproj.AssemblyReference.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\EntryWindow.g.cs
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\App.g.cs
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI_MarkupCompile.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI_MarkupCompile.lref
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\EntryWindow.baml
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.g.resources
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.AssemblyInfoInputs.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.AssemblyInfo.cs
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.csproj.CoreCompileInputs.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\refint\EStatAnalyser.Web.User.Desktop.UI.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.genruntimeconfig.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\ref\EStatAnalyser.Web.User.Desktop.UI.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\DataAnalysisWindow.g.cs
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\DataViews\OpenSimpleDataWindow.g.cs
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\DataViews\OpenUploadingWindow.g.cs
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\DataAnalysisWindow.baml
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\DataViews\OpenSimpleDataWindow.baml
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\DataViews\OpenUploadingWindow.baml
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Core.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.NetworkUtils.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Core.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.NetworkUtils.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\DataViews\DataBaseOperatorWindow.g.cs
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\DataViews\DataBaseOperatorWindow.baml
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.csproj.CopyComplete
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EPPlus.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.barcodes.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.forms.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.io.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.kernel.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.layout.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.pdfa.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.sign.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.styledxmlparser.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.svg.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.commons.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Model.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Model.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Prism.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Prism.Wpf.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.exe
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.deps.json
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.runtimeconfig.json
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.pdb
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EPPlus.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.barcodes.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.forms.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.io.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.kernel.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.layout.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.pdfa.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.sign.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.styledxmlparser.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.svg.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\itext.commons.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Prism.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\Prism.Wpf.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Core.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Model.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.NetworkUtils.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Core.pdb
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Model.pdb
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.NetworkUtils.pdb
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.csproj.AssemblyReference.cache
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\DataAnalysisWindow.g.cs
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\DataViews\DataBaseOperatorWindow.g.cs
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\DataViews\OpenSimpleDataWindow.g.cs
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\DataViews\OpenUploadingWindow.g.cs
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\EntryWindow.g.cs
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\App.g.cs
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI_MarkupCompile.cache
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI_MarkupCompile.lref
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\DataAnalysisWindow.baml
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\DataViews\DataBaseOperatorWindow.baml
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\DataViews\OpenSimpleDataWindow.baml
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\DataViews\OpenUploadingWindow.baml
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\Views\EntryWindow.baml
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.g.resources
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.AssemblyInfoInputs.cache
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.AssemblyInfo.cs
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.csproj.CoreCompileInputs.cache
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.csproj.CopyComplete
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\refint\EStatAnalyser.Web.User.Desktop.UI.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.pdb
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.UI.genruntimeconfig.cache
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\ref\EStatAnalyser.Web.User.Desktop.UI.dll

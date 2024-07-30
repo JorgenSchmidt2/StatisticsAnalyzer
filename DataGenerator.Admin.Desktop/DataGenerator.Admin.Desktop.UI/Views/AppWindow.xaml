@@ -1,0 +1,76 @@
+﻿<Window x:Class="DataGenerator.Admin.Desktop.UI.Views.AppWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataGenerator.Admin.Desktop.UI.ViewModels"
+        xmlns:core="clr-namespace:DataGenerator.Admin.Desktop.Core.Entities.GraphicsEntities;assembly=DataGenerator.Admin.Desktop.Core"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Non-linear data generator" Height="600" Width="1420" ResizeMode="NoResize">
+    <Window.DataContext>
+        <local:AppWindowViewModel/>
+    </Window.DataContext>
+    <Grid Background="#eee">
+        <!-- Графика -->
+        <Rectangle Margin="9,9,0,0" Height="{Binding FrameHeight}" Width="{Binding FrameWidth}" HorizontalAlignment="Left" VerticalAlignment="Top" Stroke="#111" StrokeThickness="2" />
+        <Viewbox Stretch="Uniform" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Width="{Binding CanvasWidth}" Height="{Binding CanvasHeight}">
+            <ItemsControl ItemsSource="{Binding DataPoints}" Width="{Binding CanvasWidth}" Height="{Binding CanvasHeight}" >
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Canvas />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.Resources>
+                    <Style TargetType="ContentPresenter">
+                        <Setter Property="Canvas.Left" Value="0" />
+                        <Setter Property="Canvas.Bottom" Value="0" />
+                    </Style>
+                    <!-- В DataTemplate прописываем путь к классу абстракции отрисовываемых линий -->
+                    <DataTemplate DataType="{x:Type core:PointEntity}">
+                        <Ellipse Margin="{Binding SphereMargin}" Stroke="{Binding Color}" StrokeThickness="{Binding StrokeThicknessValue}" Height="{Binding Radius}" Width="{Binding Radius}" Fill="Red"/>
+                    </DataTemplate>
+                </ItemsControl.Resources>
+            </ItemsControl>
+        </Viewbox>
+
+        <!-- Данные -->
+        <Label Margin="550,10,0,0" Height="30" Width="240" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Имя выходного файла (без расширения):" />
+        <TextBox Text="{Binding FileName}" Margin="550,40,0,0" Height="30" Width="420" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+        <Label Margin="550,90,0,0" Height="30" Width="340" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Тип (лучше использовать не более 3-5 слов):" />
+        <TextBox Text="{Binding Type}" Margin="550,120,0,0" Height="30" Width="420" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Margin="550,160,0,0" Height="30" Width="140" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Описание:" />
+        <TextBox Text="{Binding Description}" Margin="550,190,0,0" Height="30" Width="420" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+        <Label Margin="1000,90,0,0" Height="30" Width="140" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Имя поля Х:" />
+        <TextBox Text="{Binding XFieldName}" Margin="1000,120,0,0" Height="30" Width="390" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Margin="1000,160,0,0" Height="30" Width="140" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Имя поля Y:" />
+        <TextBox Text="{Binding YFieldName}" Margin="1000,190,0,0" Height="30" Width="390" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+        <Label Margin="550,240,0,0" Height="30" Width="200" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Число точек (не меньше 50):" />
+        <TextBox Text="{Binding PointsCount}" Margin="550,270,0,0" Height="30" Width="420" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Margin="550,310,0,0" Height="30" Width="200" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Min X:" />
+        <TextBox Text="{Binding X_Min}" Margin="550,340,0,0" Height="30" Width="200" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Margin="770,310,0,0" Height="30" Width="200" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Max X:" />
+        <TextBox Text="{Binding X_Max}" Margin="770,340,0,0" Height="30" Width="200" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Margin="550,370,0,0" Height="30" Width="200" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Min Y:" />
+        <TextBox Text="{Binding Y_Min}" Margin="550,400,0,0" Height="30" Width="200" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Margin="770,370,0,0" Height="30" Width="200" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Max Y:" />
+        <TextBox Text="{Binding Y_Max}" Margin="770,400,0,0" Height="30" Width="200" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Margin="550,445,0,0" Height="30" Width="440" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Доверительный интервал (для нисходящего и восходящего заполнения):" />
+        <TextBox Text="{Binding TrustInterval}" Margin="550,475,0,0" Height="30" Width="420" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+        <!-- Управление -->
+        <Button Command="{Binding RandomMode}" IsEnabled="{Binding RandomModeIsEnabled}" Margin="1000, 270, 0, 0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Рандомный режим" Height="30" Width="120"/>
+        <Button Command="{Binding DescendingMode}" IsEnabled="{Binding DescendingModeIsEnabled}" Margin="1135, 270, 0, 0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Нисходящий режим" Height="30" Width="120"/>
+        <Button Command="{Binding AscendingMode}" IsEnabled="{Binding AscendingModeIsEnabled}" Margin="1270, 270, 0, 0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Восходящий режим" Height="30" Width="120"/>
+        <Button Command="{Binding Calculate}" Margin="1000, 475, 0, 0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Расчитать" Height="30" Width="190"/>
+        <Button Command="{Binding WriteToFile}" Margin="1200, 475, 0, 0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Записать в файл" Height="30" Width="190"/>
+
+        <!-- Структурные элементы -->
+        <Rectangle Margin="540,9,0,0" Height="507" Width="860" HorizontalAlignment="Left" VerticalAlignment="Top" Stroke="Black" StrokeThickness="2"/>
+        <Line X1="540" X2="1400" Y1="85" Y2="85" Stroke="#222" />
+        <Line X1="540" X2="1400" Y1="235" Y2="235" Stroke="#222" />
+    </Grid>
+</Window>

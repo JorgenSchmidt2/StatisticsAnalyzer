@@ -1,0 +1,17 @@
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.NetworkUtils\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.NetworkUtils.deps.json
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.NetworkUtils\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.NetworkUtils.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.NetworkUtils\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.NetworkUtils.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.NetworkUtils\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Core.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.NetworkUtils\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Model.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.NetworkUtils\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Core.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.NetworkUtils\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Model.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.NetworkUtils\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.NetworkUtils.csproj.AssemblyReference.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.NetworkUtils\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.NetworkUtils.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.NetworkUtils\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.NetworkUtils.AssemblyInfoInputs.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.NetworkUtils\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.NetworkUtils.AssemblyInfo.cs
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.NetworkUtils\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.NetworkUtils.csproj.CoreCompileInputs.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.NetworkUtils\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.NetworkUtils.csproj.CopyComplete
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.NetworkUtils\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.NetworkUtils.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.NetworkUtils\obj\Debug\net7.0-windows\refint\EStatAnalyser.Web.User.Desktop.NetworkUtils.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.NetworkUtils\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.NetworkUtils.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.NetworkUtils\obj\Debug\net7.0-windows\ref\EStatAnalyser.Web.User.Desktop.NetworkUtils.dll

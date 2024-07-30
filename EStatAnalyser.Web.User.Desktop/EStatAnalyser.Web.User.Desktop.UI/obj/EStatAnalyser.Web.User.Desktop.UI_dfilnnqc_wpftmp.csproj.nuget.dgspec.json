@@ -1,0 +1,269 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.UI\\EStatAnalyser.Web.User.Desktop.UI.csproj": {}
+  },
+  "projects": {
+    "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.Core\\EStatAnalyser.Web.User.Desktop.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.Core\\EStatAnalyser.Web.User.Desktop.Core.csproj",
+        "projectName": "EStatAnalyser.Web.User.Desktop.Core",
+        "projectPath": "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.Core\\EStatAnalyser.Web.User.Desktop.Core.csproj",
+        "packagesPath": "C:\\Users\\Joe\\.nuget\\packages\\",
+        "outputPath": "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.Model\\EStatAnalyser.Web.User.Desktop.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.Model\\EStatAnalyser.Web.User.Desktop.Model.csproj",
+        "projectName": "EStatAnalyser.Web.User.Desktop.Model",
+        "projectPath": "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.Model\\EStatAnalyser.Web.User.Desktop.Model.csproj",
+        "packagesPath": "C:\\Users\\Joe\\.nuget\\packages\\",
+        "outputPath": "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.Core\\EStatAnalyser.Web.User.Desktop.Core.csproj": {
+                "projectPath": "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.Core\\EStatAnalyser.Web.User.Desktop.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[8.1.97, )"
+            },
+            "itext7": {
+              "target": "Package",
+              "version": "[7.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.NetworkUtils\\EStatAnalyser.Web.User.Desktop.NetworkUtils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.NetworkUtils\\EStatAnalyser.Web.User.Desktop.NetworkUtils.csproj",
+        "projectName": "EStatAnalyser.Web.User.Desktop.NetworkUtils",
+        "projectPath": "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.NetworkUtils\\EStatAnalyser.Web.User.Desktop.NetworkUtils.csproj",
+        "packagesPath": "C:\\Users\\Joe\\.nuget\\packages\\",
+        "outputPath": "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.NetworkUtils\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.Core\\EStatAnalyser.Web.User.Desktop.Core.csproj": {
+                "projectPath": "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.Core\\EStatAnalyser.Web.User.Desktop.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.UI\\EStatAnalyser.Web.User.Desktop.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.UI\\EStatAnalyser.Web.User.Desktop.UI.csproj",
+        "projectName": "EStatAnalyser.Web.User.Desktop.UI",
+        "projectPath": "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.UI\\EStatAnalyser.Web.User.Desktop.UI.csproj",
+        "packagesPath": "C:\\Users\\Joe\\.nuget\\packages\\",
+        "outputPath": "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.Core\\EStatAnalyser.Web.User.Desktop.Core.csproj": {
+                "projectPath": "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.Core\\EStatAnalyser.Web.User.Desktop.Core.csproj"
+              },
+              "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.Model\\EStatAnalyser.Web.User.Desktop.Model.csproj": {
+                "projectPath": "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.Model\\EStatAnalyser.Web.User.Desktop.Model.csproj"
+              },
+              "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.NetworkUtils\\EStatAnalyser.Web.User.Desktop.NetworkUtils.csproj": {
+                "projectPath": "D:\\codes\\C#\\StatisticsAnalyser\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.NetworkUtils\\EStatAnalyser.Web.User.Desktop.NetworkUtils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataGenerator.Admin.Desktop.Core\DataGenerator.Admin.Desktop.Core.csproj" />
+    <ProjectReference Include="..\DataGenerator.Admin.Desktop.Model\DataGenerator.Admin.Desktop.Model.csproj" />
+  </ItemGroup>
+
+</Project>

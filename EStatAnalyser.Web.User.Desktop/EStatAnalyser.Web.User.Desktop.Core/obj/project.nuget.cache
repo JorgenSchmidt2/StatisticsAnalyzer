@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MRz6Rq1z3hf9kLurp/1crs6ZRaYjfs/Vq5h9r5aQNWNeHtp8kAlxfXLfdnnu5zF57yrcimWV6u/qaj1arWA3AA==",
+  "success": true,
+  "projectFilePath": "D:\\git\\github\\Учебные программы\\StatisticsAnalyzer\\EStatAnalyser.Web.User.Desktop\\EStatAnalyser.Web.User.Desktop.Core\\EStatAnalyser.Web.User.Desktop.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joe\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

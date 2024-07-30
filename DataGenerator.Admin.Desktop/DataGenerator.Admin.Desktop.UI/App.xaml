@@ -1,0 +1,9 @@
+﻿<Application x:Class="DataGenerator.Admin.Desktop.UI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DataGenerator.Admin.Desktop.UI"
+             StartupUri="Views/AppWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

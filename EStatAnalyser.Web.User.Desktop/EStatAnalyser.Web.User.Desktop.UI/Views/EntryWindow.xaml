@@ -1,0 +1,20 @@
+﻿<Window x:Class="EStatAnalyser.Web.User.Desktop.UI.Views.EntryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EStatAnalyser.Web.User.Desktop.UI.ViewModels"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="Statistics Analyser v.0.0.0.1" Height="225" Width="300">
+    <Window.DataContext>
+        <local:EntryWindowViewModel/>
+    </Window.DataContext>
+    <Grid Background="#efefef">
+        <Button Command="{Binding OpenUploadFile}" Margin="30, 10, 0, 0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Открыть загрузочный файл" Height="30" Width="225"/>
+        <Button Command="{Binding OpenSimpleFile}" Margin="30, 50, 0, 0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Открыть .dat файл" Height="30" Width="225"/>
+        <Button Command="{Binding OpenDataBase}" Margin="30, 90, 0, 0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Получить данные из БД" Height="30" Width="225"/>
+        <Button Command="{Binding GetInfo}" Margin="30, 140, 0, 0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Справка" Height="30" Width="225"/>
+    </Grid>
+</Window>

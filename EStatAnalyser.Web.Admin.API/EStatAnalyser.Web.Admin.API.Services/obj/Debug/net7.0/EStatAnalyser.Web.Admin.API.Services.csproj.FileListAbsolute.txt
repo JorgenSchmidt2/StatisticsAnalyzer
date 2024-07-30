@@ -1,0 +1,34 @@
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\bin\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.deps.json
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\bin\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\bin\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\bin\Debug\net7.0\EStatAnalyser.Web.Admin.API.Core.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\bin\Debug\net7.0\EStatAnalyser.Web.Admin.API.DAL.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\bin\Debug\net7.0\EStatAnalyser.Web.Admin.API.Core.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\bin\Debug\net7.0\EStatAnalyser.Web.Admin.API.DAL.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.csproj.AssemblyReference.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.AssemblyInfoInputs.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.AssemblyInfo.cs
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.csproj.CoreCompileInputs.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.csproj.CopyComplete
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\refint\EStatAnalyser.Web.Admin.API.Services.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\ref\EStatAnalyser.Web.Admin.API.Services.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\bin\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.deps.json
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\bin\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\bin\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.pdb
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\bin\Debug\net7.0\EStatAnalyser.Web.Admin.API.Core.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\bin\Debug\net7.0\EStatAnalyser.Web.Admin.API.DAL.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\bin\Debug\net7.0\EStatAnalyser.Web.Admin.API.Core.pdb
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\bin\Debug\net7.0\EStatAnalyser.Web.Admin.API.DAL.pdb
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.csproj.AssemblyReference.cache
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.AssemblyInfoInputs.cache
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.AssemblyInfo.cs
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.csproj.CoreCompileInputs.cache
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.csproj.CopyComplete
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\refint\EStatAnalyser.Web.Admin.API.Services.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\EStatAnalyser.Web.Admin.API.Services.pdb
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.Services\obj\Debug\net7.0\ref\EStatAnalyser.Web.Admin.API.Services.dll

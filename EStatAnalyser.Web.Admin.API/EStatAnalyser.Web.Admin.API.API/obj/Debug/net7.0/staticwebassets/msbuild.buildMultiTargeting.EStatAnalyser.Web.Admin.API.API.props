@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EStatAnalyser.Web.Admin.API.API.props" />
+</Project>

@@ -1,0 +1,17 @@
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.DAL\bin\Release\net7.0\EStatAnalyser.Web.Admin.API.DAL.deps.json
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.DAL\bin\Release\net7.0\EStatAnalyser.Web.Admin.API.DAL.runtimeconfig.json
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.DAL\bin\Release\net7.0\EStatAnalyser.Web.Admin.API.DAL.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.DAL\bin\Release\net7.0\EStatAnalyser.Web.Admin.API.DAL.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.DAL\bin\Release\net7.0\EStatAnalyser.Web.Admin.API.Core.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.DAL\bin\Release\net7.0\EStatAnalyser.Web.Admin.API.Core.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.DAL\obj\Release\net7.0\EStatAnalyser.Web.Admin.API.DAL.csproj.AssemblyReference.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.DAL\obj\Release\net7.0\EStatAnalyser.Web.Admin.API.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.DAL\obj\Release\net7.0\EStatAnalyser.Web.Admin.API.DAL.AssemblyInfoInputs.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.DAL\obj\Release\net7.0\EStatAnalyser.Web.Admin.API.DAL.AssemblyInfo.cs
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.DAL\obj\Release\net7.0\EStatAnalyser.Web.Admin.API.DAL.csproj.CoreCompileInputs.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.DAL\obj\Release\net7.0\EStatAnalyser.Web.Admin.API.DAL.csproj.CopyComplete
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.DAL\obj\Release\net7.0\EStatAnalyser.Web.Admin.API.DAL.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.DAL\obj\Release\net7.0\refint\EStatAnalyser.Web.Admin.API.DAL.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.DAL\obj\Release\net7.0\EStatAnalyser.Web.Admin.API.DAL.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.DAL\obj\Release\net7.0\EStatAnalyser.Web.Admin.API.DAL.genruntimeconfig.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.Admin.API\EStatAnalyser.Web.Admin.API.DAL\obj\Release\net7.0\ref\EStatAnalyser.Web.Admin.API.DAL.dll

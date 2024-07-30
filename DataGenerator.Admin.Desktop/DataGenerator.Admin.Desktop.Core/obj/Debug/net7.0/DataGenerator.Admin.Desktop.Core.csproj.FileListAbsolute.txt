@@ -1,0 +1,14 @@
+D:\git\github\Учебные программы\StatisticsAnalyzer\DataGenerator.Admin.Desktop\DataGenerator.Admin.Desktop.Core\bin\Debug\net7.0\DataGenerator.Admin.Desktop.Core.deps.json
+D:\git\github\Учебные программы\StatisticsAnalyzer\DataGenerator.Admin.Desktop\DataGenerator.Admin.Desktop.Core\bin\Debug\net7.0\DataGenerator.Admin.Desktop.Core.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\DataGenerator.Admin.Desktop\DataGenerator.Admin.Desktop.Core\bin\Debug\net7.0\DataGenerator.Admin.Desktop.Core.pdb
+D:\git\github\Учебные программы\StatisticsAnalyzer\DataGenerator.Admin.Desktop\DataGenerator.Admin.Desktop.Core\bin\Debug\net7.0\presentationcore.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\DataGenerator.Admin.Desktop\DataGenerator.Admin.Desktop.Core\obj\Debug\net7.0\DataGenerator.Admin.Desktop.Core.csproj.AssemblyReference.cache
+D:\git\github\Учебные программы\StatisticsAnalyzer\DataGenerator.Admin.Desktop\DataGenerator.Admin.Desktop.Core\obj\Debug\net7.0\DataGenerator.Admin.Desktop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\github\Учебные программы\StatisticsAnalyzer\DataGenerator.Admin.Desktop\DataGenerator.Admin.Desktop.Core\obj\Debug\net7.0\DataGenerator.Admin.Desktop.Core.AssemblyInfoInputs.cache
+D:\git\github\Учебные программы\StatisticsAnalyzer\DataGenerator.Admin.Desktop\DataGenerator.Admin.Desktop.Core\obj\Debug\net7.0\DataGenerator.Admin.Desktop.Core.AssemblyInfo.cs
+D:\git\github\Учебные программы\StatisticsAnalyzer\DataGenerator.Admin.Desktop\DataGenerator.Admin.Desktop.Core\obj\Debug\net7.0\DataGenerator.Admin.Desktop.Core.csproj.CoreCompileInputs.cache
+D:\git\github\Учебные программы\StatisticsAnalyzer\DataGenerator.Admin.Desktop\DataGenerator.Admin.Desktop.Core\obj\Debug\net7.0\DataGenerator.Admin.Desktop.Core.csproj.CopyComplete
+D:\git\github\Учебные программы\StatisticsAnalyzer\DataGenerator.Admin.Desktop\DataGenerator.Admin.Desktop.Core\obj\Debug\net7.0\DataGenerator.Admin.Desktop.Core.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\DataGenerator.Admin.Desktop\DataGenerator.Admin.Desktop.Core\obj\Debug\net7.0\refint\DataGenerator.Admin.Desktop.Core.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\DataGenerator.Admin.Desktop\DataGenerator.Admin.Desktop.Core\obj\Debug\net7.0\DataGenerator.Admin.Desktop.Core.pdb
+D:\git\github\Учебные программы\StatisticsAnalyzer\DataGenerator.Admin.Desktop\DataGenerator.Admin.Desktop.Core\obj\Debug\net7.0\ref\DataGenerator.Admin.Desktop.Core.dll

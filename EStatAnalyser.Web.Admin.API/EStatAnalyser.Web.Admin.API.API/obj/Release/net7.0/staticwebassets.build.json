@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eNfM0vZuNATKsxEYlldeCWUL4m3JaxjIt3XYL0xNR2g=",
+  "Source": "EStatAnalyser.Web.Admin.API.API",
+  "BasePath": "_content/EStatAnalyser.Web.Admin.API.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

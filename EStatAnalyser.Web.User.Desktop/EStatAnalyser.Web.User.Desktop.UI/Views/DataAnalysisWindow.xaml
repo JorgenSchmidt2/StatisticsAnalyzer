@@ -1,0 +1,98 @@
+﻿<Window x:Class="EStatAnalyser.Web.User.Desktop.UI.Views.DataAnalysisWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EStatAnalyser.Web.User.Desktop.UI.ViewModels"
+        xmlns:core="clr-namespace:EStatAnalyser.Web.User.Desktop.Core.Entities.GraphicsShellEntities;assembly=EStatAnalyser.Web.User.Desktop.Core"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle= "None"
+        Height="610" Width="920" ResizeMode="NoResize" BorderThickness="1" BorderBrush="Black">
+    <Window.DataContext>
+        <local:DataAnalysisViewModel/> 
+    </Window.DataContext>
+    <Grid>
+        <Rectangle Margin="9,9,0,0" Height="{Binding ExternalFrameHeight}" Width="{Binding ExternalFrameWidth}" HorizontalAlignment="Left" VerticalAlignment="Top" Stroke="#111" StrokeThickness="1" />
+        <Viewbox Stretch="Uniform" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Width="{Binding ExternalCanvasWidth}" Height="{Binding ExternalCanvasHeight}">
+            <ItemsControl ItemsSource="{Binding LabelData}" Width="{Binding ExternalCanvasWidth}" Height="{Binding ExternalCanvasHeight}" >
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Canvas />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.Resources>
+                    <Style TargetType="ContentPresenter">
+                        <Setter Property="Canvas.Left" Value="0" />
+                        <Setter Property="Canvas.Bottom" Value="0" />
+                    </Style>
+                    <!-- В DataTemplate прописываем путь к классу абстракции отрисовываемых линий -->
+                    <DataTemplate DataType="{x:Type core:TextLabel}">
+                        <Label Margin="{Binding LabelMargin}" Content="{Binding Content}" FontSize="{Binding FontSize}" />
+                    </DataTemplate>
+                </ItemsControl.Resources>
+            </ItemsControl>
+        </Viewbox>
+        
+        <Rectangle Margin="64,34,0,0" Height="{Binding InternalFrameHeight}" Width="{Binding InternalFrameWidth}" HorizontalAlignment="Left" VerticalAlignment="Top" Stroke="#111" StrokeThickness="2" />
+        <Viewbox Margin="65,35,0,0" Stretch="Uniform" HorizontalAlignment="Left" VerticalAlignment="Top" Width="{Binding InternalCanvasWidth}" Height="{Binding InternalCanvasHeight}">
+            <ItemsControl ItemsSource="{Binding MainData}" Width="{Binding InternalCanvasWidth}" Height="{Binding InternalCanvasHeight}" >
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Canvas/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.Resources>
+                    <Style TargetType="ContentPresenter">
+                        <Setter Property="Canvas.Left" Value="0" />
+                        <Setter Property="Canvas.Bottom" Value="0" />
+                    </Style>
+                    <!-- В DataTemplate прописываем путь к классу абстракции отрисовываемых шаров -->
+                    <DataTemplate DataType="{x:Type core:Sphere}">
+                        <Ellipse Margin="{Binding SphereMargin}" Stroke="{Binding Color}" StrokeThickness="{Binding StrokeThicknessValue}" Height="{Binding Radius}" Width="{Binding Radius}" />
+                    </DataTemplate>
+                </ItemsControl.Resources>
+            </ItemsControl>
+        </Viewbox>
+        <Viewbox Margin="65,35,0,0" Stretch="Uniform" HorizontalAlignment="Left" VerticalAlignment="Top" Width="{Binding InternalCanvasWidth}" Height="{Binding InternalCanvasHeight}">
+            <ItemsControl ItemsSource="{Binding LinesData}" Width="{Binding InternalCanvasWidth}" Height="{Binding InternalCanvasHeight}" >
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Canvas />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.Resources>
+                    <Style TargetType="ContentPresenter">
+                        <Setter Property="Canvas.Left" Value="0" />
+                        <Setter Property="Canvas.Top" Value="0" />
+                    </Style>
+                    <!-- В DataTemplate прописываем путь к классу абстракции отрисовываемых линий -->
+                    <DataTemplate DataType="{x:Type core:Line}">
+                        <Line X1="{Binding X1}" X2="{Binding X2}" Y1="{Binding Y1}" Y2="{Binding Y2}" Stroke="{Binding Color}" StrokeThickness="{Binding StrokeThicknessValue}" />
+                    </DataTemplate>
+                </ItemsControl.Resources>
+            </ItemsControl>
+        </Viewbox>
+        
+        <Label Margin="290,10,0,0" Content="{Binding XFieldName}" Height="30" Width="210" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Label Margin="573,280,0,0" Content="{Binding YFieldName}" Height="30" Width="60" HorizontalAlignment="Left" VerticalAlignment="Top" />
+
+        <Label Margin="650,30,0,0" Height="30" Width="210" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Пороговое значение (z пороговое):" />
+        <TextBox Text="{Binding ThresholdZ}" Margin="650,60,0,0" Height="20" Width="220" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button Command="{Binding ZFiltration}" Margin="650, 90, 0, 0" Content="Отфильтровать" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Width="100"/>
+        <Button Command="{Binding ResetFiltration}" Margin="770, 90, 0, 0" Content="Откатить" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Width="100"/>
+        <Button Command="{Binding Regression}" Margin="650, 130, 0, 0" Content="Построить регрессию" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Width="220"/>
+        
+        <Rectangle Margin="650,250,0,0" Height="130" Width="220" HorizontalAlignment="Left" VerticalAlignment="Top" Stroke="#111" StrokeThickness="1" />
+        <Label Margin="650,220,0,0" Height="30" Width="210" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Данные анализа:" />
+        <TextBlock Text="{Binding AnalysisResult}" Margin="651,251,0,0" Height="128" Width="218" HorizontalAlignment="Left" VerticalAlignment="Top" TextWrapping="Wrap"/>
+        
+        <Label Margin="650,420,0,0" Height="30" Width="210" HorizontalAlignment="Left" VerticalAlignment="Top" Content="Имя файла (отчёт):" />
+        <TextBox Text="{Binding ReportName}" Margin="650,450,0,0" Height="20" Width="220" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button Command="{Binding CreateReport}" Margin="650,480,0,0" Content="Сформировать отчёт (pdf + xlsx)" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Width="220"/>
+
+        <Button Command="{Binding Help}" Margin="650, 536, 0, 0" Content="Справка" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Width="100"/>
+        <Button Command="{Binding Close}" Margin="770, 536, 0, 0" Content="Закрыть" HorizontalAlignment="Left" VerticalAlignment="Top" Height="30" Width="100"/>
+        
+    </Grid>
+</Window>

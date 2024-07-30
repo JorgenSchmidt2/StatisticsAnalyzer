@@ -1,0 +1,28 @@
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\bin\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.deps.json
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\bin\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\bin\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\bin\Debug\net7.0\presentationcore.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.csproj.AssemblyReference.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.AssemblyInfoInputs.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.AssemblyInfo.cs
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.csproj.CoreCompileInputs.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.csproj.CopyComplete
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\refint\EStatAnalyser.Web.User.Desktop.Core.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\ref\EStatAnalyser.Web.User.Desktop.Core.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.csproj.AssemblyReference.cache
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.AssemblyInfoInputs.cache
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.AssemblyInfo.cs
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.csproj.CoreCompileInputs.cache
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\refint\EStatAnalyser.Web.User.Desktop.Core.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.pdb
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\bin\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.deps.json
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\bin\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\bin\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.pdb
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\bin\Debug\net7.0\presentationcore.dll
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\EStatAnalyser.Web.User.Desktop.Core.csproj.CopyComplete
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0\ref\EStatAnalyser.Web.User.Desktop.Core.dll

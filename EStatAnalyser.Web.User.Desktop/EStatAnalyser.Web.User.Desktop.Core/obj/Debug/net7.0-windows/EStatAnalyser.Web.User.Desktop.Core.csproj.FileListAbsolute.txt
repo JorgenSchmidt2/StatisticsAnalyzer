@@ -1,0 +1,14 @@
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Core.deps.json
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Core.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\bin\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Core.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\bin\Debug\net7.0-windows\presentationcore.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Core.csproj.AssemblyReference.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Core.AssemblyInfoInputs.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Core.AssemblyInfo.cs
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Core.csproj.CoreCompileInputs.cache
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Core.csproj.CopyComplete
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Core.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0-windows\refint\EStatAnalyser.Web.User.Desktop.Core.dll
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0-windows\EStatAnalyser.Web.User.Desktop.Core.pdb
+D:\codes\C#\StatisticsAnalyser\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.Core\obj\Debug\net7.0-windows\ref\EStatAnalyser.Web.User.Desktop.Core.dll

@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EStatAnalyser.Web.Admin.API.API</name>
+    </assembly>
+    <members>
+        <member name="M:EStatAnalyser.Web.Admin.API.API.Controllers.StatDataController.GetAll">
+             <summary>
+             Получает список имеющихся в базе данных записей из таблицы DATAS без включения ассоциированных с ними записей из VALUES
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 https://localhost:44340/api/StatData/get-all
+            
+             </remarks>
+             <response code="200"> Получен и отправлен список объектов из таблицы DATAS </response>
+             <response code="400"> Получен некорректный запрос (JSON) </response>
+             <response code="500"> Внутренняя ошибка сервера </response>
+        </member>
+        <member name="M:EStatAnalyser.Web.Admin.API.API.Controllers.StatDataController.GetById(System.Int32)">
+             <summary>
+             Получает конкретную запись из таблицы DATAS с включением ассоциированных с ней записей из VALUES
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 https://localhost:44340/api/StatData/get-by-id/1
+                 где 1 - id объекта, информацию по которому необходимо получить
+                 
+             </remarks>
+             <response code="200"> Получены и отправлены данные по конкретному объекту </response>
+             <response code="400"> Получен некорректный запрос (JSON) </response>
+             <response code="500"> Внутренняя ошибка сервера </response>
+        </member>
+        <member name="M:EStatAnalyser.Web.Admin.API.API.Controllers.StatDataController.AddData(EStatAnalyser.Web.Admin.API.Core.Entities.Data)">
+             <summary>
+             Загружает полученные данные в БД
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 https://localhost:44340/api/StatData/add-data
+                 
+             </remarks>
+             <response code="200"> Данные загружены в базу данных, ошибок не обнаружено </response>
+             <response code="400"> Получен некорректный запрос (JSON) </response>
+             <response code="500"> Внутренняя ошибка сервера </response>
+        </member>
+        <member name="M:EStatAnalyser.Web.Admin.API.API.Controllers.StatDataController.DeleteData(System.Int32)">
+             <summary>
+             Удаляет данные из БД по ID
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 https://localhost:44340/api/StatData/delete-data/1
+                 где 1 - id объекта, информацию по которому необходимо получить
+                 
+             </remarks>
+             <response code="200"> Данные по конкретному объекту удалены из БД </response>
+             <response code="400"> Получен некорректный запрос (JSON) </response>
+             <response code="500"> Внутренняя ошибка сервера </response>
+        </member>
+        <member name="M:EStatAnalyser.Web.Admin.API.API.Controllers.StatDataController.UpdateData(EStatAnalyser.Web.Admin.API.Core.Entities.Data)">
+             <summary>
+             Обновляет данные исходя из полученного запроса (наличие ID обязательно)
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 https://localhost:44340/api/StatData/update-data
+                 
+             </remarks>
+             <response code="200"> Данные по конкретному объекту обновлены </response>
+             <response code="400"> Получен некорректный запрос (JSON) </response>
+             <response code="500"> Внутренняя ошибка сервера </response>
+        </member>
+    </members>
+</doc>

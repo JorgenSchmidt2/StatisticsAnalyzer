@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.14" />
+    <PackageReference Include="NLog" Version="5.2.7" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="5.3.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EStatAnalyser.Web.Admin.API.Core\EStatAnalyser.Web.Admin.API.Core.csproj" />
+    <ProjectReference Include="..\EStatAnalyser.Web.Admin.API.DAL\EStatAnalyser.Web.Admin.API.DAL.csproj" />
+  </ItemGroup>
+
+</Project>

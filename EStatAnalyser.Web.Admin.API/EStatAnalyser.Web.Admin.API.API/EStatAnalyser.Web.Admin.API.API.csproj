@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<GenerateDocumentationFile>true</GenerateDocumentationFile>
+	<NoWarn>$(NoWarn);1591</NoWarn>	  <GenerateDocumentationFile>true</GenerateDocumentationFile>
+	<AspNetCoreHostingModel>IIS</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="NLog" Version="5.2.7" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="5.3.5" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EStatAnalyser.Web.Admin.API.Core\EStatAnalyser.Web.Admin.API.Core.csproj" />
+    <ProjectReference Include="..\EStatAnalyser.Web.Admin.API.DAL\EStatAnalyser.Web.Admin.API.DAL.csproj" />
+    <ProjectReference Include="..\EStatAnalyser.Web.Admin.API.Services\EStatAnalyser.Web.Admin.API.Services.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "DataGenerator.Admin.Desktop.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DataGenerator.Admin.Desktop.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataGenerator.Admin.Desktop.Core.dll": {}
+        }
+      },
+      "DataGenerator.Admin.Desktop.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "DataGenerator.Admin.Desktop.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataGenerator.Admin.Desktop.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataGenerator.Admin.Desktop.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataGenerator.Admin.Desktop.Core/1.0.0": {
+      "type": "project",
+      "path": "../DataGenerator.Admin.Desktop.Core/DataGenerator.Admin.Desktop.Core.csproj",
+      "msbuildProject": "../DataGenerator.Admin.Desktop.Core/DataGenerator.Admin.Desktop.Core.csproj"
+    },
+    "DataGenerator.Admin.Desktop.Model/1.0.0": {
+      "type": "project",
+      "path": "../DataGenerator.Admin.Desktop.Model/DataGenerator.Admin.Desktop.Model.csproj",
+      "msbuildProject": "../DataGenerator.Admin.Desktop.Model/DataGenerator.Admin.Desktop.Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "DataGenerator.Admin.Desktop.Core >= 1.0.0",
+      "DataGenerator.Admin.Desktop.Model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Joe\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\git\\github\\Учебные программы\\StatisticsAnalyzer\\DataGenerator.Admin.Desktop\\DataGenerator.Admin.Desktop.UI\\DataGenerator.Admin.Desktop.UI.csproj",
+      "projectName": "DataGenerator.Admin.Desktop.UI",
+      "projectPath": "D:\\git\\github\\Учебные программы\\StatisticsAnalyzer\\DataGenerator.Admin.Desktop\\DataGenerator.Admin.Desktop.UI\\DataGenerator.Admin.Desktop.UI.csproj",
+      "packagesPath": "C:\\Users\\Joe\\.nuget\\packages\\",
+      "outputPath": "D:\\git\\github\\Учебные программы\\StatisticsAnalyzer\\DataGenerator.Admin.Desktop\\DataGenerator.Admin.Desktop.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Joe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {
+            "D:\\git\\github\\Учебные программы\\StatisticsAnalyzer\\DataGenerator.Admin.Desktop\\DataGenerator.Admin.Desktop.Core\\DataGenerator.Admin.Desktop.Core.csproj": {
+              "projectPath": "D:\\git\\github\\Учебные программы\\StatisticsAnalyzer\\DataGenerator.Admin.Desktop\\DataGenerator.Admin.Desktop.Core\\DataGenerator.Admin.Desktop.Core.csproj"
+            },
+            "D:\\git\\github\\Учебные программы\\StatisticsAnalyzer\\DataGenerator.Admin.Desktop\\DataGenerator.Admin.Desktop.Model\\DataGenerator.Admin.Desktop.Model.csproj": {
+              "projectPath": "D:\\git\\github\\Учебные программы\\StatisticsAnalyzer\\DataGenerator.Admin.Desktop\\DataGenerator.Admin.Desktop.Model\\DataGenerator.Admin.Desktop.Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

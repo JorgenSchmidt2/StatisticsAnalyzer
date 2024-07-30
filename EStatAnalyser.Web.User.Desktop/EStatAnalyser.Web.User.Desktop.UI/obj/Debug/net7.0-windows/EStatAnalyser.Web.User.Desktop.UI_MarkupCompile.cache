@@ -1,0 +1,20 @@
+﻿EStatAnalyser.Web.User.Desktop.UI
+
+
+winexe
+C#
+.cs
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\obj\Debug\net7.0-windows\
+EStatAnalyser.Web.User.Desktop.UI
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+D:\git\github\Учебные программы\StatisticsAnalyzer\EStatAnalyser.Web.User.Desktop\EStatAnalyser.Web.User.Desktop.UI\App.xaml
+5-1614632517
+
+172117118198
+236-1921694051
+Views\DataAnalysisWindow.xaml;Views\DataViews\DataBaseOperatorWindow.xaml;Views\DataViews\OpenSimpleDataWindow.xaml;Views\DataViews\OpenUploadingWindow.xaml;Views\EntryWindow.xaml;
+
+False
+
